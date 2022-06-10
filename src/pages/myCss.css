@@ -1,0 +1,17 @@
+.clickableText:hover {
+  transform: scale(1.05);
+  cursor: pointer;
+}
+
+.navText {
+  color: black;
+}
+
+.navText:hover {
+  color:green;
+  cursor: pointer;
+}
+
+li a :hover{
+  background-color: green;
+}
